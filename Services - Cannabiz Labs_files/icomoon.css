@@ -1,0 +1,113 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon/icomoon.eot?s0ye2g');
+  src:  url('../fonts/icomoon/icomoon.eot?s0ye2g#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon/icomoon.ttf?s0ye2g') format('truetype'),
+    url('../fonts/icomoon/icomoon.woff?s0ye2g') format('woff'),
+    url('../fonts/icomoon/icomoon.svg?s0ye2g#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="ico-"], [class*=" ico-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.ico-apple-with-stem-and-leaf:before {
+    content: "\e900";
+}
+.ico-arrow-right-circle:before {
+    content: "\e901";
+}
+.ico-bubble:before {
+    content: "\e902";
+}
+.ico-bubbles:before {
+    content: "\e903";
+}
+.ico-bucket:before {
+    content: "\e904";
+}
+.ico-bucket-1:before {
+    content: "\e905";
+}
+.ico-building:before {
+    content: "\e906";
+}
+.ico-cleaning:before {
+    content: "\e907";
+}
+.ico-diet:before {
+    content: "\e908";
+}
+.ico-duster:before {
+    content: "\e909";
+}
+.ico-fashion:before {
+    content: "\e90a";
+}
+.ico-field:before {
+    content: "\e90b";
+}
+.ico-garden:before {
+    content: "\e90c";
+}
+.ico-harvest:before {
+    content: "\e90d";
+}
+.ico-house:before {
+    content: "\e90e";
+}
+.ico-laugh:before {
+    content: "\e90f";
+}
+.ico-lawn-mower:before {
+    content: "\e910";
+}
+.ico-leaves:before {
+    content: "\e911";
+}
+.ico-play-button:before {
+    content: "\e912";
+}
+.ico-sprout:before {
+    content: "\e913";
+}
+.ico-tractor:before {
+    content: "\e914";
+}
+.ico-tree:before {
+    content: "\e915";
+}
+.ico-washing-hands:before {
+    content: "\e916";
+}
+.ico-washing-hands-1:before {
+    content: "\e917";
+}
+.ico-washing-machine:before {
+    content: "\e918";
+}
+.ico-watering:before {
+    content: "\e919";
+}
+.ico-watering-1:before {
+    content: "\e91a";
+}
+.ico-wheat:before {
+    content: "\e91b";
+}
+.ico-window-cleaner:before {
+    content: "\e91c";
+}
